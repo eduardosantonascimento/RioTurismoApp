@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">Rio Tour</string>
+    <string name="details_activity">Detalhes</string>
+    <string name="museu_text">MUSEU</string>
+    <string name="esportes_text">ESPORTES</string>
+    <string name="comida_text">COMIDA</string>
+
+    <!-- Image descriptions -->
+    <string name="image_description">Rio image</string>
+    <string name="image_background_description">Background for opaque image</string>
+
+    <!-- Museus Fragment -->
+    <string name="ccbb_name">Centro Cultural Banco do Brasil</string>
+    <string name="ccbb_details">Centro Histórico Inaugurado em 1989</string>
+    <string name="ccbb_description">Inaugurado em 12 de outubro de 1989, o CCBB Rio de Janeiro
+        transformou-se rapidamente em um dos centros culturais mais importantes do País. Na lista
+        dos 100 museus mais visitados do mundo em 2017, da publicação inglesa The Art Newspaper
+        (21/03/2018), ocupa a 48ª posição com 1.337.566 visitantes, além de ocupar posição de
+        destaque no ranking das exposições mais populares. No “top 10 Pós-Impressionismo e Modernismo”
+        ocupou a 2ª colocação com “Mondrian e o Movimento De Stijl” (classificada em 6º lugar no
+        ranking das exposições mais vistas no mundo) com 516.834 visitantes.</string>
+    <string name="ccbb_telefone">+55 (21) 2334-0987</string>
+    <string name="ccbb_location">Rua Primeiro de Março, 66 - Centro
+CEP: 20010-000 / Rio de Janeiro (RJ)</string>
+
+    <string name="museu_do_amanha_name">Museu do Amanhã</string>
+    <string name="museu_do_amanha_distance">1.7 km de distancia do Centro Cultural Banco do Brasil</string>
+    <string name="museu_do_amanha_detail"> Inaugurado em dezembro de 2015 pela Prefeitura do Rio de Janeiro</string>
+    <string name="museu_do_amanha_description">O Museu do Amanhã é um museu de ciências aplicadas que
+        explora as oportunidades e os desafios que a humanidade terá de enfrentar nas próximas décadas
+        a partir das perspectivas da sustentabilidade e da convivência. Inaugurado em dezembro de 2015
+        pela Prefeitura do Rio de Janeiro, o Museu do Amanhã é um equipamento cultural da Secretaria
+        Municipal de Cultura, que opera sob gestão do Instituto de Desenvolvimento e Gestão (IDG).
+        Exemplo bem-sucedido de parceria entre o poder público e a iniciativa privada, o Museu do Amanhã
+        já recebeu mais de 3 milhões de visitantes desde a inauguração. Com patrocínio máster do Banco
+        Santander e uma ampla rede de patrocinadores que inclui empresas como Shell, IBM, IRB-Brasil RE,
+        Engie, Grupo Globo e Instituto CCR, o museu foi originalmente concebido pela Fundação Roberto Marinho.</string>
+    <string name="museu_do_amanha_telefone">+55 (21) 2334-0987</string>
+    <string name="museu_do_amanha_location">Praça Mauá, 1 - Centro. Rio de Janeiro, RJ. CEP: 20081-240</string>
+
+    <string name="biblioteca_nacional_name">Biblioteca Nacional</string>
+    <string name="biblioteca_nacional_distance">1.5 km de distância do Centro Cultural Banco do Brasil</string>
+    <string name="biblioteca_nacional_detail"> Com mais de 200 anos de história, é a mais antiga instituição cultural brasileira.</string>
+    <string name="biblioteca_nacional_description">A Biblioteca Nacional do Brasil, considerada pela UNESCO
+        uma das dez maiores bibliotecas nacionais do mundo, é também a maior biblioteca da América Latina.
+        O núcleo original de seu poderoso acervo, calculado hoje em cerca de dez milhões de itens, é a
+        antiga livraria de D. José organizada sob a inspiração de Diogo Barbosa Machado, Abade de Santo
+        Adrião de Sever, para substituir a Livraria Real, cuja origem remontava às coleções de livros de
+        D. João I e de seu filho D. Duarte, e que foi consumida pelo incêndio que se seguiu ao terremoto
+        de Lisboa de 1º de novembro de 1755.</string>
+    <string name="biblioteca_nacional_telefone">+55 (21) 2334-0987</string>
+    <string name="biblioteca_nacional_location">Fundação Biblioteca Nacional, Av. Rio Branco 219 - Rio de Janeiro, RJ 20040-008</string>
+
+
+    <!-- Esportes Fragment -->
+    <string name="maracana_name">Maracanã</string>
+    <string name="aquarium_distance">Maracanã, Rio de Janeiro</string>
+    <string name="maracana_detail">Estádio que abrigou duas finais de Copa do Mundo de Futebol</string>
+    <string name="maracana_description">Estádio Jornalista Mário Filho, mais conhecido como Maracanã,
+        o popular Maraca ("semelhante a um chocalho" em tupi-guarani, devido ao som de pássaros que
+        viviam por ali[6]), é um estádio de futebol localizado na Zona Norte do Rio de Janeiro e inaugurado
+        em 1950, durante o mandato do então General de Divisão e Prefeito do Distrito Federal do
+        Rio de Janeiro Marechal Ângelo Mendes de Moraes, tendo sido utilizado na Copa do Mundo de Futebol daquele ano..</string>
+    <string name="maracana_telefone">+55 (21) 2334-0987</string>
+    <string name="maracana_location">Avenida Presidente Castelo Branco ( Radial Oeste) s/n – Portão A
+CEP: 20271-130 Rio de Janeiro (RJ) - Brasil </string>
+
+    <string name="maracanazinho_name">Maracanãzinho</string>
+    <string name="maracanazinho_distance">Junto ao complexo do Maracanã</string>
+    <string name="maracanazinho_detail">A arena do Maracanãzinho foi inaugurada em 1954 e além do
+        Campeonatos Mundiais de Basquete (1963)[1] e de Voleibol (1990).</string>
+    <string name="maracanazinho_description">O Maracanãzinho é um ginásio inaugurado em 1954 com o
+        nome Ginásio Gilberto Cardoso.[1] Está localizado na cidade do Rio de Janeiro, no Brasil e
+        possui capacidade de público atual de 11 800 espectadores [1], com uma área total de
+        ocupação de 22 940 m². Entre muitos eventos internacionais que já abrigou, destaca-se o
+        Rio Champions Tennis desde 2010, o Campeonato Mundial de Basquete Masculino em 1963, o
+        Campeonato Mundial de Voleibol Masculino em 1990 e partidas de Voleibol Masculino nas
+        Olimpíadas Rio 2016 em 2016. Encontra-se no Complexo Esportivo do Maracanã, ao lado do
+        Estádio do Maracanã e do Parque Aquático Júlio Delamare. </string>
+    <string name="maracanazinho_telefone">+55 (21) 2334-0987</string>
+    <string name="maracanazinho_location">Complexo do Maracanã</string>
+
+    <string name="delamare_name">Parque Aquático Júlio Delamare </string>
+    <string name="delamare_distance">Complexo do Maracanã</string>
+    <string name="delamare_detail">é um dos principais centros de prática de esportes aquáticos da
+        cidade do Rio de Janeiro, tendo sido inaugurado em setembro de 1978.</string>
+    <string name="delamare_description">O Parque Aquático Júlio Delamare, localizado no Complexo Esportivo
+        do Maracanã, é um dos principais centros de prática de esportes aquáticos da cidade do
+        Rio de Janeiro, tendo sido inaugurado em setembro de 1978. Seu nome foi dado em homenagem
+        ao locutor esportivo Júlio Delamare, um dos grandes incentivadores de sua construção, que
+        faleceu cinco anos antes.
+        Foi reformado para abrigar as competições de polo aquático dos Jogos Pan-Americanos de 2007,
+        ao custo de 10 milhões de reais. A reinauguração ocorreu no dia 2 de maio de 2006, e o
+        local também promoveu o Campeonato Mundial Júnior de Natação daquele ano.
+        Foi ameaçado de demolição para dar lugar a novas estruturas para as olimpíadas de 2016.
+        Entretanto o projeto não foi aprovado, e o parque foi tombado pelo prefeito Eduardo Paes
+        por meio de decreto publicado no Diário Oficial do Município, incluído no rol de espaço
+        protegidos assim como o Estádio de Atletismo Célio de Barros, a Escola Municipal Friedenreich
+        e o prédio do antigo Museu do Índio.</string>
+    <string name="delamare_telefone">+55 (21) 2334-0987</string>
+    <string name="delamare_location">Complexo do Maracanã</string>
+
+
+    <!-- Comida Fragment -->
+    <string name="tradicoes_nordestinas_name">Feira de São Cristovão</string>
+    <string name="tradicoes_nordestinas_distance">2.km do Maracanã</string>
+    <string name="tradicoes_nordestinas_detail">O Centro Luiz Gonzaga de Tradições Nordestinas,
+        também conhecido como Feira de São Cristóvão, é um pavilhão que promove a cultura e o
+        comércio de produtos nordestinos.</string>
+    <string name="tradicoes_nordestinas_description"> Localiza-se na cidade do Rio de Janeiro,
+        no Brasil. Foi criado em homenagem a Luiz Gonzaga, o «Rei do Baião».[1]
+        O prédio, inaugurado em 1962, foi construído no final dos anos 50 e concebido para abrigar
+        a Exposição Internacional de Indústria e Comércio durante o governo Juscelino Kubitschek.
+        A obra foi um empreendimento do empresário Joaquim Rolla.</string>
+    <string name="tradicoes_nordestinas_telefone">+55 (21) 2334-0987</string>
+    <string name="tradicoes_nordestinas_location">Campo de São Cristóvão - São Cristóvão, Rio de
+        Janeiro - RJ, 20291-440</string>
+
+    <string name="confeitaria_colombo_name">Confeitaria Colombo</string>
+    <string name="confeitaria_colombo_distance">1 km do Centro Cultural Banco do Brasil</string>
+    <string name="confeitaria_colombo_detail">A Confeitaria Colombo é uma confeitaria localizada no
+        Centro da cidade do Rio de Janeiro, no Brasil. É um dos principais pontos turísticos da
+        Região Central da cidade. O site U City Guides elegeu a Confeitaria Colombo um dos 10 mais
+        belos cafés do mundo.</string>
+    <string name="confeitaria_colombo_description">A confeitaria foi fundada em 1894 pelos imigrantes portugueses Joaquim Borges de Meireles e Manuel José Lebrão, tendo um extenso rol de clientes célebres na sociedade brasileira.
+
+Sua arquitetura e ambiente permitem ter uma ideia de como teria sido a Belle Époque na então capital da República.
+        Entre 1912 e 1918, os salões do interior da confeitaria foram reformados, com um toque Art Nouveau,
+        com enormes espelhos de cristal trazidos de Antuérpia, emoldurados por elegantes frisos talhados
+        em madeira de jacarandá. Os móveis de madeira do interior foram esculpidos na mesma época pelo artesão Antônio Borsoi.</string>
+    <string name="confeitaria_colombo_telefone">+55 (21) 2334-0987</string>
+    <string name="confeitaria_colombo_location">Rua Gonçalves Dias, 32 - Rio de Janeiro</string>
+
+    <string name="olympe_name">Olympe</string>
+    <string name="olympe_distance">14 km do Centro Cultural Banco do Brasil</string>
+    <string name="olympe_detail">Comandado pelo chef expoente da gastronomia contemporânea Thomas
+        Troisgros, detentor de uma estrela no Guia Michelin e eleito entre os “50 Melhores Restaurantes
+        da América Latina”, o Olympe traz a integração da culinária francesa contemporânea com
+        influências brasileiras e mundiais.</string>
+    <string name="olympe_description">Para além dos prêmios, o Olympe faz parte da história da gastronomia
+        do Rio de Janeiro. Fundado há mais de trinta anos pelo chef Claude Troisgros, pai de Thomas,
+        o restaurante inovou desde o início, quando aliou o uso dos ingredientes locais – como jiló,
+        maracujá, açaí e mandioca – com as técnicas da alta gastronomia, tornando-se uma referência e
+        consolidando o sobrenome dos Troisgros também no Brasil.</string>
+    <string name="olympe_telefone">+55 (21) 2334-0987</string>
+    <string name="olympe_location">Rua Custódio Serrão 62, Lagoa - RJ</string>
+
+
+</resources>
