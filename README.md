@@ -36,18 +36,6 @@ E como já disse: Fique a vontade para sugerir outras melhorias ou funcionalidad
 
 ------------
 
-### Abaixo segue o atual estado do aplicativo.
-.
-.
-.
-![]("status/dia1/restaurantes.jpeg")
+### Para saber o atual status do aplicativo, acesse a pasta STATUS/dia1.
 
-![]("/status/dia1/restaurantes.jpeg")
 
-<img src="https://drive.google.com/file/d/17gUqcRDcIVLEG9D-2Qsr_ks_GzlxahDT/view" height="450" width="250">
-.
-<img src="https://drive.google.com/file/d/1plHGBc4ZtgJZEFcK_yV_dVcEUhHV-nTh/view" height="450" width="250">
-.
-<img src="https://drive.google.com/file/d/1JIQYW6hPRQQoz4bm26i_Y80EgJ7xY1jL/view" height="450" width="250">
-.
-<video src="">
