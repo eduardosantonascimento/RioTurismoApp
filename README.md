@@ -40,7 +40,9 @@ E como já disse: Fique a vontade para sugerir outras melhorias ou funcionalidad
 .
 .
 .
-![]("/status/dia1/restaurantes")
+![]("status/dia1/restaurantes.jpeg")
+
+![]("/status/dia1/restaurantes.jpeg")
 
 <img src="https://drive.google.com/file/d/17gUqcRDcIVLEG9D-2Qsr_ks_GzlxahDT/view" height="450" width="250">
 .
