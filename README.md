@@ -36,6 +36,16 @@ E como já disse: Fique a vontade para sugerir outras melhorias ou funcionalidad
 
 ------------
 
-### Para saber o atual status do aplicativo, acesse a pasta STATUS/dia1.
-
+### Abaixo segue o atual estado do aplicativo...
+.
+------------
+<p>
+<img src="status/dia1/restaurantes.jpeg" width="200" height="400">
+<img src="status/dia1/museus.jpeg" width="200" height="400">
+<img src="status/dia1/esportes.jpeg" width="200" height="400">
+</p>
+<video width="320" height="240" controls>
+  <source src="status/dia1/ponto_zero.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
