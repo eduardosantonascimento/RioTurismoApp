@@ -10,6 +10,8 @@
     <string name="image_background_description">Background for opaque image</string>
 
     <!-- Museus Fragment -->
+
+    <!-- CCBB MUSEU  -->
     <string name="ccbb_name">Centro Cultural Banco do Brasil</string>
     <string name="ccbb_details">Centro Histórico Inaugurado em 1989</string>
     <string name="ccbb_description">Inaugurado em 12 de outubro de 1989, o CCBB Rio de Janeiro
@@ -23,6 +25,7 @@
     <string name="ccbb_location">Rua Primeiro de Março, 66 - Centro
 CEP: 20010-000 / Rio de Janeiro (RJ)</string>
 
+    <!-- MUSEU DO AMANHA -->
     <string name="museu_do_amanha_name">Museu do Amanhã</string>
     <string name="museu_do_amanha_distance">1.7 km de distancia do Centro Cultural Banco do Brasil</string>
     <string name="museu_do_amanha_detail"> Inaugurado em dezembro de 2015 pela Prefeitura do Rio de Janeiro</string>
@@ -38,6 +41,7 @@ CEP: 20010-000 / Rio de Janeiro (RJ)</string>
     <string name="museu_do_amanha_telefone">+55 (21) 2334-0987</string>
     <string name="museu_do_amanha_location">Praça Mauá, 1 - Centro. Rio de Janeiro, RJ. CEP: 20081-240</string>
 
+    <!-- BIBLIOTECA NACIONAL -->
     <string name="biblioteca_nacional_name">Biblioteca Nacional</string>
     <string name="biblioteca_nacional_distance">1.5 km de distância do Centro Cultural Banco do Brasil</string>
     <string name="biblioteca_nacional_detail"> Com mais de 200 anos de história, é a mais antiga instituição cultural brasileira.</string>
@@ -51,8 +55,139 @@ CEP: 20010-000 / Rio de Janeiro (RJ)</string>
     <string name="biblioteca_nacional_telefone">+55 (21) 2334-0987</string>
     <string name="biblioteca_nacional_location">Fundação Biblioteca Nacional, Av. Rio Branco 219 - Rio de Janeiro, RJ 20040-008</string>
 
+    <!-- MUSEU NACIONAL UFRJ - QUINTA DA BOA VISTA
+    http://www.museusdorio.com.br/joomla/index.php?option=com_k2&view=item&id=12:museu-nacional&Itemid=210 (FONTE)
+    http://www.museunacional.ufrj.br/
+    -->
+
+    <string name="museu_nacional_name">Museu Nacional UFRJ - Quinta da Boa Vista</string>
+    <string name="museu_nacional_distance">4 km de distância do Centro do Rio de Janeiro </string>
+    <string name="museu_nacional_description">Sua história remonta aos tempos da fundação do Museu Real
+        por D. João VI, em 1818, cujo principal objetivo era propagar o conhecimento e o estudo das
+        ciências naturais em terras brasileiras. Hoje, é reconhecido como um centro de excelência de
+        pesquisa em história natural e antropológica na América Latina.
+    </string>
+    <string name="museu_nacional_telefone">+55 (21) 2562-6042</string>
+    <string name="museu_nacional_location"> Quinta da Boa Vista, s/n.- São Cristovão </string>
+    <string name="museu_nacional_coordenates"> -22.9065406,-43.2280106 </string>
+
+
+    <!--
+        Museu Histórico Nacional - MHN
+http://www.museusdorio.com.br/joomla/index.php?option=com_k2&view=item&id=42:museu-historico-nacional&Itemid=210 (Fonte)
+     -->
+
+    <string name="museu_historico_nacional_name">Museu Histórico Nacional - MHN</string>
+    <string name="museu_historico_nacional_distance">4 km de distância do Centro do Rio de Janeiro </string>
+    <string name="museu_historico_nacional_description">Museu Histórico Nacional preserva e difunde a cultura
+        a história da Nação brasileira. Criado na década de 1922, hoje reúne um acervo com cerca de 350 mil itens,
+        dentre os quais a maior coleção de numismática da América Latina.
+    </string>
+    <string name="museu_historico_nacional_telefone">+55 (21) 3299-0324</string>
+    <string name="museu_historico_nacional_location"> Praça Marechal Âncora, s/nº, Centro </string>
+    <string name="museu_historico_nacional_coordenates"> -22.905908,-43.169513 </string>
+
+    <!--
+    Museu Nacional de Belas Artes - MNBA
+    http://www.museusdorio.com.br/joomla/index.php?option=com_k2&view=item&id=37:museu-nacional-de-belas-artes-mnba&Itemid=210 (FONTE)
+    -->
+
+    <string name="museu_nacional_belas_artes_name">Museu Nacional de Belas Artes - MNBA</string>
+    <string name="museu_nacional_belas_artes_distance">4 km de distância do Centro do Rio de Janeiro </string>
+    <string name="museu_nacional_belas_artes_description">O Museu Nacional de Belas Artes – MNBA, criado durante o
+        governo do presidente Getúlio Vargas, é uma das instituições museológicas mais importantes do país dedicada
+        à conservação, divulgação e aquisição de obras representativas da produção artística brasileira
+        - séculos XIX e XX - em seu diálogo com as obras e a tradição artística das escolas estrangeiras.
+    </string>
+    <string name="museu_nacional_belas_artes_telefone">+55 (21) 2219-8474</string>
+    <string name="museu_nacional_belas_artes_location"> Av. Rio Branco, 199 - Centro (Cinelândia) - Cep: 20.040-008 </string>
+    <string name="museu_nacional_belas_artes_coordenates">  -22.90876,-43.175701 https://goo.gl/maps/vVKCUtLX54ajbetq5</string>
+
+    <!--
+     Museu de Arte Moderna  - MAM
+     http://www.museusdorio.com.br/joomla/index.php?option=com_k2&view=item&id=95:museu-de-arte-moderna-do-rio-de-janeiro-mam-rio (FONTE)
+    https://www.mam.rio/
+    -->
+
+    <string name="museu_arte_moderma_name">Museu de Arte Moderna  - MAM-Rio</string>
+    <string name="museu_arte_moderma_distance">4 km de distância do Centro do Rio de Janeiro </string>
+    <string name="museu_arte_moderma_description">O Museu de Arte Moderna do Rio de Janeiro tem como missão
+        a preservação, a reflexão e a difusão da produção das artes moderna e contemporânea em âmbito nacional e
+        internacional por meio de exposições de sua coleção, publicações e empréstimos de obras.
+    </string>
+    <string name="museu_arte_moderma_telefone">+55 (21) 2240- 4944 / (21) 2240-4899</string>
+    <string name="museu_arte_moderma_location"> Av. Infante Dom Henrique, nº 85, Glória </string>
+    <string name="museu_arte_moderma_coordenates">  -22.9137527,-43.1717993 https://goo.gl/maps/pHy1gNk5TgySF3eP6</string>
+
+
+
+    <!--
+    Museu de Arte Contemporanea - MAC
+    http://www.museusdorio.com.br/joomla/index.php?option=com_content&view=article&id=44:perfil-museu-de-arte-contemporanea-de-niteroi&catid=5&Itemid=78 (Fonte)
+    http://culturaniteroi.com.br/macniteroi/
+    -->
+
+    <string name="museu_arte_contemporanea_name"> Museu de Arte Contemporânea de Niterói </string>
+    <string name="museu_arte_contemporanea_distance">4 km de distância do Centro do Rio de Janeiro </string>
+    <string name="museu_arte_contemporanea_description">Um mirante deu lugar ao Museu de Arte Contemporânea de Niterói.
+        Oscar Niemayer projetou um prédio vazado, com formas arredondas, aproveitando bem o espaço e o visual ali presentes.
+        Para alguns é um disco voador. Para seu criador, uma flor de lótus, a flor da criação para os egípcios. \n
+        O MAC, como é conhecido, ultrapassa os limites de museu. É o símbolo de uma cidade, orgulho para seus moradores,
+        um prédio reconhecido nacionalmente e internacionalmente pela sua beleza, arrojamento e audácia.
+    </string>
+    <string name="museu_arte_contemporanea_telefone">+55 (21) 2620-2400</string>
+    <string name="museu_arte_contemporanea_location"> Mirante da Boa Viagem, s/nº - Niterói </string>
+    <string name="museu_arte_contemporanea_coordenates">  -22.9078358,-43.125867 https://goo.gl/maps/FEVsdY8upLVJ2MRV8 </string>
+
+
+
+    <!--
+    Museu do Negro
+    http://www.museusdorio.com.br/joomla/index.php?option=com_k2&view=item&id=40:museu-do-negro&Itemid=210
+     -->
+
+
+    <!--
+     Museu de Arte do Rio - MAR
+     http://www.museusdorio.com.br/joomla/index.php?option=com_k2&view=item&id=118:museu-de-arte-do-rio-mar&Itemid=210
+     http://www.museudeartedorio.org.br/pt-br/contato
+     -->
+
+    <!--
+     Centro Cultural Municipal Parque das Ruínas
+     http://www.museusdorio.com.br/joomla/index.php?option=com_k2&view=item&id=18:centro-cultural-municipal-parque-das-ru%C3%ADnas&Itemid=210
+     -->
+
+    <!--
+     Memorial dos Pretos Novos
+     http://www.museusdorio.com.br/joomla/index.php?option=com_k2&view=item&id=83:memorial-dos-pretos-novos&Itemid=210
+     -->
+
+    <!--
+     Centro Cultural Correios
+     http://www.museusdorio.com.br/joomla/index.php?option=com_k2&view=item&id=82:centro-cultural-correios&Itemid=210
+     https://www.correios.com.br/sobre-os-correios/educacao-e-cultura/centros-e-espacos-culturais-dos-correios/centro-cultural-rio-de-janeiro
+     -->
+
+    <!--
+    MUSEUS DA MARINHA
+    Complexo Cultural da Marinha - Museu Naval - Sede da DPHDM
+    http://www.museusdorio.com.br/joomla/index.php?option=com_k2&view=item&id=49:complexo-cultural-da-marinha-museu-naval-sede-da-dphdm&Itemid=210
+    .
+    Complexo Cultural da Marinha - Espaço Cultural da Marinha
+    http://www.museusdorio.com.br/joomla/index.php?option=com_k2&view=item&id=52:complexo-cultural-da-marinha-espa%C3%A7o-cultural-da-marinha&Itemid=210
+    .
+    Complexo Cultural da Marinha - Ilha Fiscal
+    http://www.museusdorio.com.br/joomla/index.php?option=com_k2&view=item&id=53:complexo-cultural-da-marinha-ilha-fiscal&Itemid=210
+    .
+    -->
 
     <!-- Esportes Fragment -->
+
+    <!--
+     MAracanã
+     -->
+
     <string name="maracana_name">Maracanã</string>
     <string name="aquarium_distance">Maracanã, Rio de Janeiro</string>
     <string name="maracana_detail">Estádio que abrigou duas finais de Copa do Mundo de Futebol</string>
@@ -64,6 +199,10 @@ CEP: 20010-000 / Rio de Janeiro (RJ)</string>
     <string name="maracana_telefone">+55 (21) 2334-0987</string>
     <string name="maracana_location">Avenida Presidente Castelo Branco ( Radial Oeste) s/n – Portão A
 CEP: 20271-130 Rio de Janeiro (RJ) - Brasil </string>
+
+    <!--
+     MAracanãzinho
+     -->
 
     <string name="maracanazinho_name">Maracanãzinho</string>
     <string name="maracanazinho_distance">Junto ao complexo do Maracanã</string>
@@ -79,6 +218,10 @@ CEP: 20271-130 Rio de Janeiro (RJ) - Brasil </string>
         Estádio do Maracanã e do Parque Aquático Júlio Delamare. </string>
     <string name="maracanazinho_telefone">+55 (21) 2334-0987</string>
     <string name="maracanazinho_location">Complexo do Maracanã</string>
+
+    <!--
+     Julio Dellamare
+     -->
 
     <string name="delamare_name">Parque Aquático Júlio Delamare </string>
     <string name="delamare_distance">Complexo do Maracanã</string>
@@ -99,6 +242,90 @@ CEP: 20271-130 Rio de Janeiro (RJ) - Brasil </string>
         e o prédio do antigo Museu do Índio.</string>
     <string name="delamare_telefone">+55 (21) 2334-0987</string>
     <string name="delamare_location">Complexo do Maracanã</string>
+
+
+    <!--
+     Célio de Barros
+     http://www.suderj.rj.gov.br/estadio_atletismo.asp (FONTE)
+     -->
+
+    <string name="celio_de_barros_name">Estádio de Atletismo Célio de Barros </string>
+    <string name="celio_de_barros_distance">Complexo do Maracanã</string>
+    <string name="celio_de_barros_detail">é um dos principais centros de prática de esportes aquáticos da
+        cidade do Rio de Janeiro, tendo sido inaugurado em setembro de 1978.</string>
+    <string name="celio_de_barros_description">O Estádio de Atletismo Célio de Barros foi reinaugurado
+        no Complexo do Maracanã, em 25 de outubro de 1974. Vinte anos antes, era apenas uma pista de
+        terra, que passou por reformas como a construção de arquibancadas e a modernização das pistas.
+        Atualmente, ocupa área total de 18.714m², com 15.501m² de área construída, 756m² para
+        estacionamento e 457m² de jardins, com espaço de lazer gratuito para a comunidade, e capacidade
+        para 9.143 pessoas, sendo 8.000 nas arquibancadas, 1.053 nas cadeiras e 50 na tribuna de honra.
+    </string>
+    <string name="celio_de_barros_telefone">            </string>
+    <string name="celio_de_barros_location">Complexo do Maracanã</string>
+
+
+    <!--
+     São Januário
+     -->
+
+    <string name="sao_januario_name"> São Januário </string>
+    <string name="sao_januario_distance">Complexo do Maracanã</string>
+    <string name="sao_januario_detail">é um dos principais centros de prática de esportes aquáticos da
+        cidade do Rio de Janeiro, tendo sido inaugurado em setembro de 1978.</string>
+    <string name="sao_januario_description">O Estádio Vasco da Gama, mais conhecido como São Januário,
+        devido à parte de sua localização estar no bairro de mesmo nome, é o estádio de futebol pertencente
+        ao Club de Regatas Vasco da Gama. Foi inaugurado em 21 de abril de 1927, sendo até hoje o maior
+        estádio particular do estado do Rio de Janeiro.
+        \n
+        Sua fachada, em estilo neocolonial, é tombada pelo Instituto do Patrimônio Histórico e Artístico
+        Nacional. Além disso há um Projeto de Lei 1563/96 na Câmara Municipal do Rio de Janeiro,
+        apresentado em 29 de maio de 1996, com o fim de tombar o estádio e seu complexo esportivo
+        e social, por seu valor histórico, cultural, esportivo e social.
+    </string>
+    <string name="sao_januario_telefone">+55 (21) 2176-7373</string>
+    <string name="sao_januario_location"></string>
+
+
+    <!--
+     Engenhão
+     -->
+
+    <string name="engenhao_name">Engenhão </string>
+    <string name="engenhao_distance"> </string>
+    <string name="engenhao_detail">é um dos principais centros de prática de esportes aquáticos da
+        cidade do Rio de Janeiro, tendo sido inaugurado em setembro de 1978.</string>
+    <string name="engenhao_description">Construído para os Jogos Pan-Americanos de 2007,
+        o Estádio Nilton Santos foi erguido pela prefeitura no antigo terreno da Rede Ferroviária Federal,
+        na Rua José dos Reis, no bairro do Engenho de Dentro, Zona Norte do Rio de Janeiro.
+        Inaugurado no dia 30 de junho de 2007, com a vitória do Botafogo por 2 a 1 sobre o Fluminense,
+        o estádio é considerado o mais moderno da América Latina e o quinto mais moderno do mundo.
+    </string>
+    <string name="engenhao_telefone">+55 (21) 2546-1950</string>
+    <string name="engenhao_location">R. José dos Reis, 425 - Engenho de Dentro</string>
+
+
+    <!--
+     Parque Olimpico
+     https://pt.wikipedia.org/wiki/Parque_Ol%C3%ADmpico_do_Rio_de_Janeiro (FONTE)
+     -->
+
+    <string name="parque_olimpico_name"> Parque Olímpico da Barra da Tijuca. </string>
+    <string name="parque_olimpico_distance">Complexo do Maracanã</string>
+    <string name="parque_olimpico_detail">é um dos principais centros de prática de esportes aquáticos da
+        cidade do Rio de Janeiro, tendo sido inaugurado em setembro de 1978.</string>
+    <string name="parque_olimpico_description">
+        Parque Olímpico do Rio de Janeiro é um complexo esportivo e de lazer, construído para os
+        Jogos Olímpicos e Paralímpicos de Verão de 2016, localizado no bairro da Barra da Tijuca,
+        na zona oeste da cidade. Nele estão situadas as 3 Arenas Cariocas, o Centro Olímpico de
+        Tênis, o Velódromo, a Arena Olímpica do Rio e o Parque Aquático Maria Lenk, além de 2 hotéis
+        da rede Marriott, prédios que abrigaram o Centro Internacional de Transmissão e o Centro Principal
+        de Mídia e o Terminal Centro Olímpico. O Parque Olímpico também abrigou as estruturas temporárias do
+        Estádio Aquático Olímpico e da Arena do Futuro.
+
+    </string>
+    <string name="parque_olimpico_telefone">+55 (21) xxxx-xxxx</string>
+    <string name="parque_olimpico_location">Av. Embaixador Abelardo Bueno 3401, Barra da Tijuca.</string>
+
 
 
     <!-- Comida Fragment -->
