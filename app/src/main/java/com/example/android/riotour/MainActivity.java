@@ -37,5 +37,6 @@ public class MainActivity extends AppCompatActivity {
         //
         // Corrigir
         tabLayout.setupWithViewPager(viewPager);
+
     }
 }

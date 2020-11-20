@@ -12,7 +12,7 @@
     <!-- Museus Fragment -->
 
     <!-- CCBB MUSEU  -->
-    <string name="ccbb_name">Centro Cultural Banco do Brasil</string>
+    <string name="ccbb_name">Centro Cultural \n Banco do Brasil</string>
     <string name="ccbb_details">Centro Histórico Inaugurado em 1989</string>
     <string name="ccbb_description">Inaugurado em 12 de outubro de 1989, o CCBB Rio de Janeiro
         transformou-se rapidamente em um dos centros culturais mais importantes do País. Na lista
@@ -329,6 +329,12 @@ CEP: 20271-130 Rio de Janeiro (RJ) - Brasil </string>
 
 
     <!-- Comida Fragment -->
+
+
+    <!-- Feira dos Paraibas - Tradicções Nordestinas
+
+     -->
+
     <string name="tradicoes_nordestinas_name">Feira de São Cristovão</string>
     <string name="tradicoes_nordestinas_distance">2.km do Maracanã</string>
     <string name="tradicoes_nordestinas_detail">O Centro Luiz Gonzaga de Tradições Nordestinas,
@@ -342,6 +348,11 @@ CEP: 20271-130 Rio de Janeiro (RJ) - Brasil </string>
     <string name="tradicoes_nordestinas_telefone">+55 (21) 2334-0987</string>
     <string name="tradicoes_nordestinas_location">Campo de São Cristóvão - São Cristóvão, Rio de
         Janeiro - RJ, 20291-440</string>
+
+
+    <!-- Confeitaria COlombo -
+
+     -->
 
     <string name="confeitaria_colombo_name">Confeitaria Colombo</string>
     <string name="confeitaria_colombo_distance">1 km do Centro Cultural Banco do Brasil</string>
@@ -358,6 +369,10 @@ Sua arquitetura e ambiente permitem ter uma ideia de como teria sido a Belle Ép
     <string name="confeitaria_colombo_telefone">+55 (21) 2334-0987</string>
     <string name="confeitaria_colombo_location">Rua Gonçalves Dias, 32 - Rio de Janeiro</string>
 
+    <!-- Olympe Restaurante -
+
+     -->
+
     <string name="olympe_name">Olympe</string>
     <string name="olympe_distance">14 km do Centro Cultural Banco do Brasil</string>
     <string name="olympe_detail">Comandado pelo chef expoente da gastronomia contemporânea Thomas
@@ -371,6 +386,109 @@ Sua arquitetura e ambiente permitem ter uma ideia de como teria sido a Belle Ép
         consolidando o sobrenome dos Troisgros também no Brasil.</string>
     <string name="olympe_telefone">+55 (21) 2334-0987</string>
     <string name="olympe_location">Rua Custódio Serrão 62, Lagoa - RJ</string>
+
+
+    <!-- Didas Bar -
+        http://visit.rio/onde_comer/dida-bar-e-restaurante/ (Fonte)
+    -->
+
+    <string name="didas_bar_name">Didas Bar</string>
+    <string name="didas_bar_distance">14 km do Centro Cultural Banco do Brasil</string>
+    <string name="didas_bar_detail">Comandado pelo chef expoente da gastronomia contemporânea Thomas
+        Troisgros, detentor de uma estrela no Guia Michelin e eleito entre os “50 Melhores Restaurantes
+        da América Latina”, o Olympe traz a integração da culinária francesa contemporânea com
+        influências brasileiras e mundiais.</string>
+    <string name="didas_bar_description">Com decoração ligada à cultura africana, o bar da simpática
+        Dida oferece comidas típicas do nordeste com um quê africano. O bar na beira da rua funciona
+        na configuração atual desde dezembro de 2015 e, oferece uma vez por mês uma homenagem à um país da
+        África com uma iguaria da região. Além disso, todas as sextas o samba invade o Dida, aos sábados é a
+        vez do Jazz e da MPB. E jongo também tem o seu dia de reinar na casa, uma vez ao mês.
+    </string>
+    <string name="didas_bar_telefone">+55 (21) 2504-0841</string>
+    <string name="didas_bar_location">Rua Barão de Iguatemi, 379 - Praça da Bandeira</string>
+
+    <!-- Mirante da Rocinha -
+        http://visit.rio/onde_comer/restaurante-mirante-da-rocinha/ (Fonte)
+    -->
+
+    <string name="mirante_rocinha_name">Mirante da Rocinha</string>
+    <string name="mirante_rocinha_distance">14 km do Centro Cultural Banco do Brasil</string>
+    <string name="mirante_rocinha_detail">Comandado pelo chef expoente da gastronomia contemporânea Thomas
+        Troisgros, detentor de uma estrela no Guia Michelin e eleito entre os “50 Melhores Restaurantes
+        da América Latina”, o Olympe traz a integração da culinária francesa contemporânea com
+        influências brasileiras e mundiais.</string>
+    <string name="mirante_rocinha_description">
+        Observar o Cristo Redentor, o Pão de Açúcar, a Lagoa Rodrigo de Freitas e alguns bairros
+        da zona sul do Rio de Janeiro. Tudo isso ao degustar uma gastronomia contemporânea com
+        assinatura de chef e um bom drinque. Imaginou? Pois esse cenário é o Mirante Rocinha,
+        um ponto de observação privilegiado (e gratuito) com um bar homônimo, com acesso pela
+        Estrada da Gávea, na localidade 199. O Mirante fica a oito minutos do Shopping da Gávea,
+        com fácil acesso pela Zona Sul por meio de ônibus, vans e táxis, que deixam o público em
+        frente. Mas não acaba aí: a chegada do polo turístico está redesenhando o cenário de lazer
+        da comunidade, já que os empresários, criados na Rocinha, iniciaram a reforma da Praça Vila
+        Cruzada e do campo de futebol, ambos ao lado do Mirante.
+    </string>
+    <string name="mirante_rocinha_telefone">+55 (21) 3324-0323</string>
+    <string name="mirante_rocinha_location">Estrada da Gávea, 222 - Rocinha</string>
+
+    <!-- Cachaça Social Club -
+        http://visit.rio/onde_comer/cachaca-social-club/
+    -->
+
+    <string name="cachaca_social_name">Cachaça Social Club</string>
+    <string name="cachaca_social_distance">14 km do Centro Cultural Banco do Brasil</string>
+    <string name="cachaca_social_detail">Comandado pelo chef expoente da gastronomia contemporânea Thomas
+        Troisgros, detentor de uma estrela no Guia Michelin e eleito entre os “50 Melhores Restaurantes
+        da América Latina”, o Olympe traz a integração da culinária francesa contemporânea com
+        influências brasileiras e mundiais.</string>
+    <string name="cachaca_social_description">
+        Diariamente o Cachaça Social Club oferece o tour “Da cana-de-acúcar à caipirinha – a experiência” com
+        o objetivo de apresentar a origem da cachaça, suas peculiaridades, além do passo a passo do seu processo d
+        e produção e da caipirinha, drinque conhecido internacionalmente elaborado com a iguaria.
+        \n
+        O tour, realizado com, no máximo, 15 participantes é cobrado a parte e pode ser adquirido no
+        ingressocerto.com.  Ao final do tour, com o auxílio de um barman, o participante poderá elaborar
+        a sua própria caipirinha e será presenteado com uma garrafa de cachaça.
+    </string>
+    <string name="cachaca_social_telefone">+55 (21) 2751-0275</string>
+    <string name="cachaca_social_location">Rua do Resende, 53 - Loja A - Lapa</string>
+
+    <!-- Raizes Bar -
+        http://visit.rio/onde_comer/raizes/ (Fonte)
+    -->
+
+    <string name="raizes_bar_name">Raizes Bar e Restaurante</string>
+    <string name="raizes_bar_distance">14 km do Centro Cultural Banco do Brasil</string>
+    <string name="raizes_bar_detail">Comandado pelo chef expoente da gastronomia contemporânea Thomas
+        Troisgros, detentor de uma estrela no Guia Michelin e eleito entre os “50 Melhores Restaurantes
+        da América Latina”, o Olympe traz a integração da culinária francesa contemporânea com
+        influências brasileiras e mundiais.</string>
+    <string name="raizes_bar_description">
+        O Raízes Bar e Restaurante, localizado à rua Afonso Pena, perto da estação do Metrô, é uma
+        ótima opção para quem deseja aproveitar o melhor da boemia, na Tijuca. Além da cerveja sempre
+        gelada, a casa ainda conta com uma carta de drinks variados, como o Gin Raízes
+        (gin defumado com canela, tônica, morango e hortelã). E não podemos esquecer do tradicional chopp.
+    </string>
+    <string name="raizes_bar_telefone">+55 (21) 2567-8692</string>
+    <string name="raizes_bar_location">Rua Afonso Pena, 66 - loja A - Tijuca</string>
+
+    <!-- ÁRABE DO LEME -
+       http://visit.rio/onde_comer/arabedoleme/
+    -->
+
+    <string name="arabe_do_leme_name">ÁRABE DO LEME</string>
+    <string name="arabe_do_leme_distance">14 km do Centro Cultural Banco do Brasil</string>
+    <string name="arabe_do_leme_detail">Comandado pelo chef expoente da gastronomia contemporânea Thomas
+        Troisgros, detentor de uma estrela no Guia Michelin e eleito entre os “50 Melhores Restaurantes
+        da América Latina”, o Olympe traz a integração da culinária francesa contemporânea com
+        influências brasileiras e mundiais.</string>
+    <string name="arabe_do_leme_description">Alexandre Cristino da Silva é o Árabe do Leme, que há
+        20 anos atua na praia, no trecho entre o Posto 2 até a Pedra do Leme, oferecendo
+        produtos frescos (quibes e esfirras) embalados individualmente, sempre tendo a preocupação
+        com a manipulação, e temperos variados.</string>
+    <string name="arabe_do_leme_telefone">Whatsapp (21) 99666-5379.</string>
+    <string name="arabe_do_leme_location">Diariamente, das 10h às 16h.</string>
+
 
 
 </resources>

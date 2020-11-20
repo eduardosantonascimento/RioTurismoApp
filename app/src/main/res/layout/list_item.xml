@@ -19,7 +19,7 @@
     android:orientation="vertical"
     android:background="@color/colorPrimary"
     >
-    
+
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
@@ -44,9 +44,12 @@
             android:id="@+id/titulo_text_view"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:padding="15dp"
-            android:layout_margin="7dp"
-            android:textAppearance="?android:textAppearanceMedium"
+            android:padding="3dp"
+            android:layout_margin="3dp"
+            android:fontFamily="@font/satisfy_regular"
+            android:textAlignment="center"
+            android:textSize="35dp"
+            android:textAppearance="?android:textAppearanceLarge"
             android:textColor="@android:color/black"
             android:textStyle="bold"
             tools:text="lutti" />
@@ -57,6 +60,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="7dp"
             android:padding="5dp"
+            android:fontFamily="@font/quicksand_regular"
             android:textAppearance="?android:textAppearanceMedium"
             android:textColor="@android:color/black"
             tools:text="one" />
@@ -67,6 +71,7 @@
             android:layout_height="wrap_content"
             android:padding="1dp"
             android:layout_margin="5dp"
+            android:fontFamily="@font/satisfy_regular"
             android:textAppearance="?android:textAppearanceMedium"
             android:textColor="@android:color/black"
             tools:text="one" />
@@ -77,6 +82,7 @@
             android:layout_height="wrap_content"
             android:padding="5dp"
             android:layout_margin="7dp"
+            android:fontFamily="@font/satisfy_regular"
             android:textAppearance="?android:textAppearanceMedium"
             android:textColor="@android:color/black"
             tools:text="one"
