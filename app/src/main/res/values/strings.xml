@@ -22,8 +22,7 @@
         ocupou a 2ª colocação com “Mondrian e o Movimento De Stijl” (classificada em 6º lugar no
         ranking das exposições mais vistas no mundo) com 516.834 visitantes.</string>
     <string name="ccbb_telefone">+55 (21) 2334-0987</string>
-    <string name="ccbb_location">Rua Primeiro de Março, 66 - Centro
-CEP: 20010-000 / Rio de Janeiro (RJ)</string>
+    <string name="ccbb_location">Rua Primeiro de Março, 66 - Centro</string>
 
     <!-- MUSEU DO AMANHA -->
     <string name="museu_do_amanha_name">Museu do Amanhã</string>
@@ -39,7 +38,7 @@ CEP: 20010-000 / Rio de Janeiro (RJ)</string>
         Santander e uma ampla rede de patrocinadores que inclui empresas como Shell, IBM, IRB-Brasil RE,
         Engie, Grupo Globo e Instituto CCR, o museu foi originalmente concebido pela Fundação Roberto Marinho.</string>
     <string name="museu_do_amanha_telefone">+55 (21) 2334-0987</string>
-    <string name="museu_do_amanha_location">Praça Mauá, 1 - Centro. Rio de Janeiro, RJ. CEP: 20081-240</string>
+    <string name="museu_do_amanha_location">Praça Mauá, 1 - Centro. Rio de Janeiro, RJ.</string>
 
     <!-- BIBLIOTECA NACIONAL -->
     <string name="biblioteca_nacional_name">Biblioteca Nacional</string>
@@ -53,7 +52,7 @@ CEP: 20010-000 / Rio de Janeiro (RJ)</string>
         D. João I e de seu filho D. Duarte, e que foi consumida pelo incêndio que se seguiu ao terremoto
         de Lisboa de 1º de novembro de 1755.</string>
     <string name="biblioteca_nacional_telefone">+55 (21) 2334-0987</string>
-    <string name="biblioteca_nacional_location">Fundação Biblioteca Nacional, Av. Rio Branco 219 - Rio de Janeiro, RJ 20040-008</string>
+    <string name="biblioteca_nacional_location">Fundação Biblioteca Nacional, Av. Rio Branco 219 - Rio de Janeiro, RJ</string>
 
     <!-- MUSEU NACIONAL UFRJ - QUINTA DA BOA VISTA
     http://www.museusdorio.com.br/joomla/index.php?option=com_k2&view=item&id=12:museu-nacional&Itemid=210 (FONTE)
@@ -100,7 +99,7 @@ http://www.museusdorio.com.br/joomla/index.php?option=com_k2&view=item&id=42:mus
         - séculos XIX e XX - em seu diálogo com as obras e a tradição artística das escolas estrangeiras.
     </string>
     <string name="museu_nacional_belas_artes_telefone">+55 (21) 2219-8474</string>
-    <string name="museu_nacional_belas_artes_location"> Av. Rio Branco, 199 - Centro (Cinelândia) - Cep: 20.040-008 </string>
+    <string name="museu_nacional_belas_artes_location"> Av. Rio Branco, 199 - Centro (Cinelândia) </string>
     <string name="museu_nacional_belas_artes_coordenates">  -22.90876,-43.175701 https://goo.gl/maps/vVKCUtLX54ajbetq5</string>
 
     <!--
@@ -266,6 +265,7 @@ CEP: 20271-130 Rio de Janeiro (RJ) - Brasil </string>
 
     <!--
      São Januário
+     http://prefeitura.rio/cet-rio/confira-interdicoes-no-transito-perto-de-sao-januario-no-domingo-para-vasco-x-sao-paulo/
      -->
 
     <string name="sao_januario_name"> São Januário </string>
