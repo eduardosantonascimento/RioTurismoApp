@@ -41,12 +41,12 @@ E como já disse: Fique a vontade para sugerir outras melhorias ou funcionalidad
 ------------
 
 <p>
-<img src="status/dia1/restaurantes.jpeg" width="200" height="400">
-<img src="status/dia1/museus.jpeg" width="200" height="400">
-<img src="status/dia1/esportes.jpeg" width="200" height="400">
+<img src="status/versaofinal/restaurantes.jpeg" width="200" height="400">
+<img src="status/versaofinal/mudeu.jpeg" width="200" height="400">
+<img src="status/versaofinal/esportes.jpeg" width="200" height="400">
 </p>
 ------------
-<p><img src="status/dia1/ponto_zero.gif" width="304" height="640">
+<p><img src="status/versaofinal/ponto_final_versao_inicial.gif" width="304" height="640">
 </p>
 
 
